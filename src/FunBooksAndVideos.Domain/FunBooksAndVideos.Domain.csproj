@@ -1,0 +1,7 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <Description>Domain model of the FunBooksAndVideos shop: entities, value objects, invariants and persistence contracts. No framework dependencies.</Description>
+  </PropertyGroup>
+
+</Project>
